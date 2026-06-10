@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Jifara Dabessa
 
-<!--
-**jifara2024/jifara2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Water Resources Engineer, GIS Specialist, Data Analyst, and MIS Consultant with experience in water resources engineering, GIS and Remote Sensing, data analytics, and Python programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- MSc in Remote Sensing and Geoinformatics
+- BSc in Computer Science
+- Advanced Diploma in Water Resources Engineering
+
+## Professional Experience
+
+- MIS Consultant, Ministry of Water and Energy, Ethiopia
+- Water Resources Engineering
+- GIS and Spatial Analysis
+- Urban Water Utility Information Systems
+
+## Technical Skills
+
+- GIS & Remote Sensing
+- ArcGIS
+- QGIS
+- Python
+- Data Analytics
+- Hydrology
+- Groundwater Modeling
+- Flood Modeling
+- Geostatistics
+- SQL
+- MIS Systems
+
+## Featured Projects
+
+### Groundwater Quality Modeling – Borena Zone
+Geostatistical groundwater quality assessment using GIS, Remote Sensing, ArcGIS, SPSS, and Python.
+
+### River Flood Maximum Flow Modeling
+Hydrological analysis and flood frequency modeling using river flow data.
+
+### HTML Regulation Parser
+Python-based HTML parser for converting legal and regulatory documents into structured JSON.
+
+### MIS Data Analytics
+Data analysis and reporting for water utility management information systems.
+
+## Contact
+
+- GitHub: github.com/jifara2024
+- Location: Addis Ababa, Ethiopia
