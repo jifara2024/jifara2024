@@ -47,13 +47,16 @@ I am a Water Resources Engineer, GIS Specialist, Data Analyst, and MIS Consultan
 ## Featured Projects
 
 ### Groundwater Quality Modeling – Borena Zone
-Geostatistical groundwater quality assessment using GIS, Remote Sensing, ArcGIS, SPSS, and Python.
-
-### River Flood Maximum Flow Modeling
-Hydrological analysis and flood frequency modeling using river flow data.
+https://github.com/jifara2024/Groundwater-Quality-Modeling-Borena
 
 ### HTML Regulation Parser
-Python-based HTML parser for converting legal and regulatory documents into structured JSON.
+https://github.com/jifara2024/HTML-Regulation-Parser
+
+### MIS Data Analytics
+https://github.com/jifara2024/MIS_DataAnalytics
+
+### River Flood Maximum Flow Modeling
+(Coming Soon)
 
 ### MIS Data Analytics
 Data analysis and reporting for water utility management information systems.
@@ -62,3 +65,14 @@ Data analysis and reporting for water utility management information systems.
 
 - GitHub: github.com/jifara2024
 - Location: Addis Ababa, Ethiopia
+## Areas of Interest
+
+- Water Resources Engineering
+- Groundwater Quality Assessment
+- Hydrological Modeling
+- Flood Frequency Analysis
+- GIS and Remote Sensing
+- Environmental Data Science
+- Python Programming
+- Management Information Systems (MIS)
+- Machine Learning for Geospatial Applications
