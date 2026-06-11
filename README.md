@@ -24,11 +24,27 @@ I am a Water Resources Engineer, GIS & Remote Sensing Specialist, Data Analyst, 
 
 ## Professional Experience
 
-- MIS Consultant, Ministry of Water and Energy, Ethiopia
-- Water Resources Engineering
-- GIS and Spatial Analysis
-- Urban Water Utility Information Systems
+## 🎓 Education
 
+### Master of Science (MSc) in Remote Sensing and Geoinformatics
+Addis Ababa University, Ethiopia
+Graduated: July 2024
+
+### Bachelor of Science (BSc) in Computer Science
+Addis Ababa University, Ethiopia
+Graduated: July 2008
+
+### Advanced Diploma in Water Resources Engineering
+Arba Minch University, Ethiopia
+## 📜 Certifications
+
+- Certified Associate in Python Programming (PCAP) – Python Institute (2023)
+- Python Powered Data Analytics – Addis Ababa University / 4K Labs (2024)
+- GIS for Climate Action – ESRI (2023)
+- Spatial Data Science: The New Frontier in Analytics – ESRI (2023)
+- Cartography – ESRI (2023)
+- Transform AEC Projects with GIS and BIM – ESRI (2024)
+- Use of Remote Sensing and GIS for Groundwater Potential Mapping in Ethiopia – UNICEF & European Commission (2019)
 ## Technical Skills
 
 - GIS & Remote Sensing
