@@ -45,21 +45,25 @@ I am a Water Resources Engineer, GIS Specialist, Data Analyst, and MIS Consultan
 
 ## Featured Projects
 
+### Urban Water Utility MIS Portfolio
+https://github.com/jifara2024/Urban-Water-Utility-MIS-Portfolio
+
+Integrated Water Utility MIS implementation, reporting, GIS integration, analytics, training support, and stakeholder coordination for urban water utilities in Ethiopia.
+
 ### Groundwater Quality Modeling – Borena Zone
 https://github.com/jifara2024/Groundwater-Quality-Modeling-Borena
+
+Groundwater quality assessment using GIS, geostatistics, ArcGIS, SPSS, and spatial interpolation techniques.
+
+### River Flood Maximum Flow Modeling
+https://github.com/jifara2024/River-Flood-Maximum-Flow-Modeling
+
+Hydrological flood frequency analysis, rainfall-runoff relationships, return period estimation, and GIS-based watershed characterization.
 
 ### HTML Regulation Parser
 https://github.com/jifara2024/HTML-Regulation-Parser
 
-### MIS Data Analytics
-https://github.com/jifara2024/MIS_DataAnalytics
-
-### River Flood Maximum Flow Modeling
-(Coming Soon)
-
-### MIS Data Analytics
-Data analysis and reporting for water utility management information systems.
-
+Python-based parser for extracting structured information from regulatory HTML documents.
 ## Contact
 
 - GitHub: github.com/jifara2024
