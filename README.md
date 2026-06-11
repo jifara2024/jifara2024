@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a Water Resources Engineer, GIS Specialist, Data Analyst, and MIS Consultant with experience in water resources engineering, GIS and Remote Sensing, data analytics, and Python programming.
+I am a Water Resources Engineer, GIS & Remote Sensing Specialist, Data Analyst, and MIS Consultant with multidisciplinary experience in water resources engineering, urban water utility information systems, hydrological modeling, geospatial analysis, and Python-based data analytics. I currently support digital transformation initiatives for urban water utilities in Ethiopia through integrated MIS implementation, GIS integration, reporting systems, and decision-support analytics.
 
 ## Education
 
@@ -73,11 +73,12 @@ Python-based parser for extracting structured information from regulatory HTML d
 ## Areas of Interest
 
 - Water Resources Engineering
-- Groundwater Quality Assessment
+- Urban Water Utility MIS Systems
 - Hydrological Modeling
 - Flood Frequency Analysis
+- Groundwater Quality Assessment
 - GIS and Remote Sensing
-- Environmental Data Science
+- Geospatial Data Science
 - Python Programming
-- Management Information Systems (MIS)
-- Machine Learning for Geospatial Applications
+- Data Analytics and Dashboards
+- Digital Transformation in Water Utilities
