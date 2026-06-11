@@ -66,8 +66,10 @@ https://github.com/jifara2024/HTML-Regulation-Parser
 Python-based parser for extracting structured information from regulatory HTML documents.
 ## Contact
 
-- GitHub: github.com/jifara2024
+- GitHub: https://github.com/jifara2024
 - Location: Addis Ababa, Ethiopia
+- Telegram: https://t.me/jifaraDG
+  
 ## Areas of Interest
 
 - Water Resources Engineering
