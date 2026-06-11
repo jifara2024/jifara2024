@@ -11,7 +11,6 @@
 
 💧 Water Resources Engineering | GIS | Hydrology | Data Analytics | MIS
 
-# Hi, I'm Jifara Dabessa
 
 ## About Me
 
