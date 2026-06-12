@@ -1,7 +1,7 @@
 
 # Jifara Dabessa
 
-### Water Resources Engineer | GIS & Remote Sensing Specialist | Data Analyst | Python Developer
+### GIS & Remote Sensing Specialist  |  Water Resources Engineer | Data Analyst | Python Developer
 
 📍 Addis Ababa, Ethiopia
 
