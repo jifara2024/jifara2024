@@ -22,11 +22,9 @@ I am a  GIS & Remote Sensing Specialist, Water Resources Engineer, Data Analyst,
 
 ### Master of Science (MSc) in Remote Sensing and Geoinformatics
 Addis Ababa University, Ethiopia
-Graduated: July 2024
 
 ### Bachelor of Science (BSc) in Computer Science
 Addis Ababa University, Ethiopia
-Graduated: July 2008
 
 ### Advanced Diploma in Water Resources Engineering
 Arba Minch University, Ethiopia
