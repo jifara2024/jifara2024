@@ -77,9 +77,7 @@ Python-based parser that extracts structured information from regulatory HTML do
 
 ---
 ## 📊 GitHub Stats
-
-![Jifara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jifara2024&show_icons=true&count_private=true)
-
+![Jifara's GitHub stats](https://github-readme-stats-jifara2024.vercel.app/api?username=jifara2024&show_icons=true)
 ---
 
 ## 📫 Contact
