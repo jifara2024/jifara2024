@@ -76,10 +76,10 @@ Python-based parser that extracts structured information from regulatory HTML do
 - Use of Remote Sensing and GIS for Groundwater Potential Mapping in Ethiopia — UNICEF & European Commission (2019)
 
 ---
-## 📊 GitHub Stats
-![Jifara's GitHub stats](https://github-readme-stats-jifara2024.vercel.app/api?username=jifara2024&show_icons=true)
----
+## 📊 Activity
+🟢 Actively contributing — see my [contribution graph](https://github.com/jifara2024) and [pinned repositories](https://github.com/jifara2024?tab=repositories) below.
 
+---
 ## 📫 Contact
 
 - **GitHub:** [github.com/jifara2024](https://github.com/jifara2024)
