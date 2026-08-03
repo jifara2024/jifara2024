@@ -80,7 +80,7 @@ Python-based parser that extracts structured information from regulatory HTML do
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jifara2024&show_icons=true&theme=default&hide_title=false" alt="Jifara's GitHub stats" />
+![Jifara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jifara2024&show_icons=true&count_private=true)
 </p>
 
 ---
